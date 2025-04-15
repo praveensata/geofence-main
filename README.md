@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # geofence
 
 A new Flutter project.
@@ -15,3 +16,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 "# geofence" 
+=======
+# geofence-main
+>>>>>>> eb47d9d403303db6ca36b9657ff8ccce6876216a
