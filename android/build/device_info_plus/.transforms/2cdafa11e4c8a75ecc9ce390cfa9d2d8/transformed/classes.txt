@@ -1,0 +1,3 @@
+dev/fluttercommunity/plus/device_info/DeviceInfoPlusPlugin.class
+dev/fluttercommunity/plus/device_info/MethodCallHandlerImpl.class
+dev/fluttercommunity/plus/device_info/R.class

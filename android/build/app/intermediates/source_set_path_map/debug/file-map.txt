@@ -1,0 +1,69 @@
+com.example.geofence.app-debug-0 C:\Flutter Projects\geofence\android\app\src\debug\res
+com.example.geofence.app-main-1 C:\Flutter Projects\geofence\android\app\src\main\res
+com.example.geofence.app-google-services-2 C:\Flutter Projects\geofence\android\build\app\generated\res\google-services\debug
+com.example.geofence.app-pngs-3 C:\Flutter Projects\geofence\android\build\app\generated\res\pngs\debug
+com.example.geofence.app-resValues-4 C:\Flutter Projects\geofence\android\build\app\generated\res\resValues\debug
+com.example.geofence.app-packageDebugResources-5 C:\Flutter Projects\geofence\android\build\app\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.geofence.app-packageDebugResources-6 C:\Flutter Projects\geofence\android\build\app\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.geofence.app-merged_res-7 C:\Flutter Projects\geofence\android\build\app\intermediates\merged_res\debug
+com.example.geofence.app-packaged_res-8 C:\Flutter Projects\geofence\android\build\cloud_firestore\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-9 C:\Flutter Projects\geofence\android\build\device_info_plus\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-10 C:\Flutter Projects\geofence\android\build\firebase_auth\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-11 C:\Flutter Projects\geofence\android\build\firebase_core\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-12 C:\Flutter Projects\geofence\android\build\firebase_messaging\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-13 C:\Flutter Projects\geofence\android\build\firebase_storage\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-14 C:\Flutter Projects\geofence\android\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-15 C:\Flutter Projects\geofence\android\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-16 C:\Flutter Projects\geofence\android\build\geolocator_android\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-17 C:\Flutter Projects\geofence\android\build\image_picker_android\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-18 C:\Flutter Projects\geofence\android\build\permission_handler_android\intermediates\packaged_res\debug
+com.example.geofence.app-packaged_res-19 C:\Flutter Projects\geofence\android\build\shared_preferences_android\intermediates\packaged_res\debug
+com.example.geofence.app-jetified-activity-ktx-1.9.3-20 C:\Users\satap\.gradle\caches\transforms-3\0233924ff5351d74c6487fbebf9d20e8\transformed\jetified-activity-ktx-1.9.3\res
+com.example.geofence.app-jetified-tracing-1.2.0-21 C:\Users\satap\.gradle\caches\transforms-3\0f26ae4826cbe535b7cb1c7b9f041ccb\transformed\jetified-tracing-1.2.0\res
+com.example.geofence.app-jetified-profileinstaller-1.3.1-22 C:\Users\satap\.gradle\caches\transforms-3\11c27896094259152b523680fc6b9ee1\transformed\jetified-profileinstaller-1.3.1\res
+com.example.geofence.app-localbroadcastmanager-1.1.0-23 C:\Users\satap\.gradle\caches\transforms-3\1a89329b3ee7542f9c73b89038c14511\transformed\localbroadcastmanager-1.1.0\res
+com.example.geofence.app-lifecycle-viewmodel-2.7.0-24 C:\Users\satap\.gradle\caches\transforms-3\225b3f611457b6a2b979cba63bef4e9d\transformed\lifecycle-viewmodel-2.7.0\res
+com.example.geofence.app-jetified-appcompat-resources-1.3.1-25 C:\Users\satap\.gradle\caches\transforms-3\271e994800a86c4f75c47996c0ac930c\transformed\jetified-appcompat-resources-1.3.1\res
+com.example.geofence.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-26 C:\Users\satap\.gradle\caches\transforms-3\27414892dcacf62feeeda470083dfda5\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.example.geofence.app-media-1.1.0-27 C:\Users\satap\.gradle\caches\transforms-3\2b1b7ed781d51683363aba5317274752\transformed\media-1.1.0\res
+com.example.geofence.app-browser-1.4.0-28 C:\Users\satap\.gradle\caches\transforms-3\2cfac5db669634c05dfd0d264cf3265f\transformed\browser-1.4.0\res
+com.example.geofence.app-jetified-savedstate-1.2.1-29 C:\Users\satap\.gradle\caches\transforms-3\2eb150157e1283518591ae41f9359860\transformed\jetified-savedstate-1.2.1\res
+com.example.geofence.app-jetified-window-java-1.2.0-30 C:\Users\satap\.gradle\caches\transforms-3\3ddedc728cedea6014c84192ce16c8da\transformed\jetified-window-java-1.2.0\res
+com.example.geofence.app-jetified-firebase-messaging-24.1.0-31 C:\Users\satap\.gradle\caches\transforms-3\40d1700fd389ade7f82499e168912f2a\transformed\jetified-firebase-messaging-24.1.0\res
+com.example.geofence.app-preference-1.2.1-32 C:\Users\satap\.gradle\caches\transforms-3\41fa0430d1417cf814a3c63fb60421b6\transformed\preference-1.2.1\res
+com.example.geofence.app-jetified-annotation-experimental-1.4.0-33 C:\Users\satap\.gradle\caches\transforms-3\432f6a2915d3b3c8d272757d2153a33e\transformed\jetified-annotation-experimental-1.4.0\res
+com.example.geofence.app-lifecycle-runtime-2.7.0-34 C:\Users\satap\.gradle\caches\transforms-3\4335f10ba48c859110a94a80b1484565\transformed\lifecycle-runtime-2.7.0\res
+com.example.geofence.app-jetified-play-services-basement-18.4.0-35 C:\Users\satap\.gradle\caches\transforms-3\443f4f25c7d9d7bdf0953c6c22d49d98\transformed\jetified-play-services-basement-18.4.0\res
+com.example.geofence.app-jetified-startup-runtime-1.1.1-36 C:\Users\satap\.gradle\caches\transforms-3\45d9868b58adde6913defa032df4c120\transformed\jetified-startup-runtime-1.1.1\res
+com.example.geofence.app-jetified-play-services-auth-20.7.0-37 C:\Users\satap\.gradle\caches\transforms-3\4f3792595bedec20e4ea1aecfdbd8a28\transformed\jetified-play-services-auth-20.7.0\res
+com.example.geofence.app-jetified-lifecycle-viewmodel-ktx-2.7.0-38 C:\Users\satap\.gradle\caches\transforms-3\53056aea0d7ee523342431d70a8accea\transformed\jetified-lifecycle-viewmodel-ktx-2.7.0\res
+com.example.geofence.app-transition-1.4.1-39 C:\Users\satap\.gradle\caches\transforms-3\53fcf6658568dfb53106dc99b301dc4a\transformed\transition-1.4.1\res
+com.example.geofence.app-jetified-core-ktx-1.13.1-40 C:\Users\satap\.gradle\caches\transforms-3\5a353bf5fe7b9a52d12fd361540d522f\transformed\jetified-core-ktx-1.13.1\res
+com.example.geofence.app-jetified-datastore-preferences-1.0.0-41 C:\Users\satap\.gradle\caches\transforms-3\60c8464c7260d82e2591629550a14f06\transformed\jetified-datastore-preferences-1.0.0\res
+com.example.geofence.app-slidingpanelayout-1.2.0-42 C:\Users\satap\.gradle\caches\transforms-3\6724ed78cd44bb4bb2b3e05877c85d4a\transformed\slidingpanelayout-1.2.0\res
+com.example.geofence.app-appcompat-1.3.1-43 C:\Users\satap\.gradle\caches\transforms-3\6daad47b5f2344b6eea9d3529978e01a\transformed\appcompat-1.3.1\res
+com.example.geofence.app-jetified-credentials-play-services-auth-1.2.0-rc01-44 C:\Users\satap\.gradle\caches\transforms-3\9005200cbf18b7de183accac015ca842\transformed\jetified-credentials-play-services-auth-1.2.0-rc01\res
+com.example.geofence.app-constraintlayout-2.1.0-45 C:\Users\satap\.gradle\caches\transforms-3\936a64118bb8fd58b342e79bc35c06eb\transformed\constraintlayout-2.1.0\res
+com.example.geofence.app-lifecycle-livedata-2.7.0-46 C:\Users\satap\.gradle\caches\transforms-3\a08b118926dee123af2caf61a9f09853\transformed\lifecycle-livedata-2.7.0\res
+com.example.geofence.app-jetified-lifecycle-livedata-core-ktx-2.7.0-47 C:\Users\satap\.gradle\caches\transforms-3\a3fea5580d51f1788630d5fae9eed3af\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.example.geofence.app-coordinatorlayout-1.1.0-48 C:\Users\satap\.gradle\caches\transforms-3\a440e651f1bff11a9dfd5eb39a0d8831\transformed\coordinatorlayout-1.1.0\res
+com.example.geofence.app-cardview-1.0.0-49 C:\Users\satap\.gradle\caches\transforms-3\a7fd9669e905d03b95d08f220338c3c4\transformed\cardview-1.0.0\res
+com.example.geofence.app-recyclerview-1.1.0-50 C:\Users\satap\.gradle\caches\transforms-3\a9099de1a6e8a0bde2c9be4425de0a0f\transformed\recyclerview-1.1.0\res
+com.example.geofence.app-jetified-viewpager2-1.0.0-51 C:\Users\satap\.gradle\caches\transforms-3\b3152c9bd261b4051209bdf00888877c\transformed\jetified-viewpager2-1.0.0\res
+com.example.geofence.app-core-runtime-2.2.0-52 C:\Users\satap\.gradle\caches\transforms-3\b7c4299ca5468361061ef51954444f1d\transformed\core-runtime-2.2.0\res
+com.example.geofence.app-jetified-play-services-base-18.3.0-53 C:\Users\satap\.gradle\caches\transforms-3\b9fb2117ad5ee603f1ab695ac7e251c3\transformed\jetified-play-services-base-18.3.0\res
+com.example.geofence.app-jetified-window-1.2.0-54 C:\Users\satap\.gradle\caches\transforms-3\bb070a9815d288e9f0d84f85594e4b2e\transformed\jetified-window-1.2.0\res
+com.example.geofence.app-jetified-firebase-common-21.0.0-55 C:\Users\satap\.gradle\caches\transforms-3\bf711410610ec688284e213d6966aacb\transformed\jetified-firebase-common-21.0.0\res
+com.example.geofence.app-jetified-lifecycle-runtime-ktx-2.7.0-56 C:\Users\satap\.gradle\caches\transforms-3\c6bc3192743ced618e423c95d5445cd0\transformed\jetified-lifecycle-runtime-ktx-2.7.0\res
+com.example.geofence.app-jetified-core-common-2.0.3-57 C:\Users\satap\.gradle\caches\transforms-3\cb5e8c866840ca0ef697c0e28023e830\transformed\jetified-core-common-2.0.3\res
+com.example.geofence.app-jetified-savedstate-ktx-1.2.1-58 C:\Users\satap\.gradle\caches\transforms-3\d0004fd11771fa80ea11f1d477e66a9a\transformed\jetified-savedstate-ktx-1.2.1\res
+com.example.geofence.app-jetified-lifecycle-process-2.7.0-59 C:\Users\satap\.gradle\caches\transforms-3\d5f3f6c355a4cf933a80232b41f24ba4\transformed\jetified-lifecycle-process-2.7.0\res
+com.example.geofence.app-jetified-core-1.0.0-60 C:\Users\satap\.gradle\caches\transforms-3\db606ad6d5150b8698cbf711b8236d0a\transformed\jetified-core-1.0.0\res
+com.example.geofence.app-jetified-fragment-ktx-1.7.1-61 C:\Users\satap\.gradle\caches\transforms-3\dcedca1cd05a59bf59ec28383a45afa0\transformed\jetified-fragment-ktx-1.7.1\res
+com.example.geofence.app-lifecycle-livedata-core-2.7.0-62 C:\Users\satap\.gradle\caches\transforms-3\e1d94c10823b98c1f330871ac81ada6d\transformed\lifecycle-livedata-core-2.7.0\res
+com.example.geofence.app-jetified-credentials-1.2.0-rc01-63 C:\Users\satap\.gradle\caches\transforms-3\e7b7b64a8b9c5940e015a9783aff8acb\transformed\jetified-credentials-1.2.0-rc01\res
+com.example.geofence.app-jetified-datastore-1.0.0-64 C:\Users\satap\.gradle\caches\transforms-3\ea131625646e736ea007bb431dd46f28\transformed\jetified-datastore-1.0.0\res
+com.example.geofence.app-jetified-activity-1.9.3-65 C:\Users\satap\.gradle\caches\transforms-3\f0065cf844ba4133dcc624b0b7c4fda6\transformed\jetified-activity-1.9.3\res
+com.example.geofence.app-fragment-1.7.1-66 C:\Users\satap\.gradle\caches\transforms-3\fc56768c5d1e25b4d029c4de3183162e\transformed\fragment-1.7.1\res
+com.example.geofence.app-material-1.4.0-67 C:\Users\satap\.gradle\caches\transforms-3\fd6fb035a14555e879b976b61ed0afc1\transformed\material-1.4.0\res
+com.example.geofence.app-core-1.13.1-68 C:\Users\satap\.gradle\caches\transforms-3\fe118f5d20ceac6c8b4388f1c084d3b7\transformed\core-1.13.1\res

@@ -1,0 +1,17 @@
+com/baseflow/permissionhandler/AppSettingsManager$OpenAppSettingsSuccessCallback.class
+com/baseflow/permissionhandler/AppSettingsManager.class
+com/baseflow/permissionhandler/ErrorCallback.class
+com/baseflow/permissionhandler/MethodCallHandlerImpl.class
+com/baseflow/permissionhandler/PermissionConstants$PermissionGroup.class
+com/baseflow/permissionhandler/PermissionConstants$PermissionStatus.class
+com/baseflow/permissionhandler/PermissionConstants$ServiceStatus.class
+com/baseflow/permissionhandler/PermissionConstants.class
+com/baseflow/permissionhandler/PermissionHandlerPlugin.class
+com/baseflow/permissionhandler/PermissionManager$CheckPermissionsSuccessCallback.class
+com/baseflow/permissionhandler/PermissionManager$RequestPermissionsSuccessCallback.class
+com/baseflow/permissionhandler/PermissionManager$ShouldShowRequestPermissionRationaleSuccessCallback.class
+com/baseflow/permissionhandler/PermissionManager.class
+com/baseflow/permissionhandler/PermissionUtils.class
+com/baseflow/permissionhandler/R.class
+com/baseflow/permissionhandler/ServiceManager$SuccessCallback.class
+com/baseflow/permissionhandler/ServiceManager.class
